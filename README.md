@@ -1,1 +1,2 @@
-### Behavioral Interview Questions
+### Behavioral IQs
+* STAR Approach
