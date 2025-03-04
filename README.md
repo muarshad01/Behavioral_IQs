@@ -15,6 +15,18 @@
   
 ***
 
+* __Question__: Why google? Why are you interested in google?
+
+***
+
+* __Question__: What product/feature you'll like to improve at google?
+  
+***
+
+* __Question__: Why should we hire you?
+  
+***
+
 * __Question__: Tell me about yourself?
   
 ***
@@ -52,5 +64,58 @@
 ***
 
 * __Question__: You had to learn something quickly?
+  
+***
+
+* __Question__: Received constructive feedback?
+  
+***
+
+* __Question__: Project took longer than expercted?
+  
+***
+
+* __Question__: Mistake made?
+  
+***
+
+* __Question__: Tough Challenge?
+  
+***
+
+* __Question__: Resolve a conflict in team?
+  
+***
+
+* __Question__: Managed a conflict?
+  
+***
+
+* __Question__: What are you proud of?
+ * Past project: How you achieved goals as a team. 
+
+***
+
+* __Question__: How are you going to add value after you join?
+  
+***
+
+* __Question__: Greatest Strength/Weakness?
+   
+***
+
+* __Question__: Challenging project?
+  
+***
+
+* __Question__: Failed project?
+
+***
+
+* __Question__: Leadership?
+  
+***
+
+* __Question__: Conflict?
   
 ***
