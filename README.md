@@ -119,3 +119,31 @@
 * __Question__: Conflict?
   
 ***
+***
+
+## Amazon Leadership Principle Questions
+* https://www.interviewgenie.com/blog/how-to-interview-at-amazon-with-leadership-principles
+* https://igotanoffer.com/en/advice/amazon-leadership-principles
+* https://www.tryexponent.com/blog/how-to-nail-amazons-behavioral-interview-questions
+* https://www.levels.fyi/blog/amazon-leadership-principles.html
+* https://interviewkickstart.com/blogs/interview-questions/amazon-leadership-principles-interview-questions
+* https://leetcode.com/discuss/interview-question/437082/amazon-behavioral-questions-or-leadership-principles-or-lp
+* https://interviewing.io/guides/amazon-leadership-principles
+
+### Amazon's 16 Leadership Principles:
+1. Customer Obsession
+2. Ownership
+3. Bias for Action
+4. Have Backbone; Disagree and Commit
+5. Invent and Simplify
+6. Dive Deep
+7. Are Right, A Lot
+8. Deliver Results
+9. Think Big
+10. Hire and Develop the Best
+11. Frugality
+12. Learn and Be Curious
+13. Insist on the Highest Standards
+14. Earn Trust
+15. Strive to be Earth's Best Employer
+16. Success and Scale Bring Broad Responsibility
