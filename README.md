@@ -1,9 +1,9 @@
 ## Behavioral IQs
 * STAR Approach: 
-  * 1 Situation
-  * 2 Task
-  * 3 Action
-  * 4Result
+  * 1 - Situation
+  * 2 - Task
+  * 3 - Action
+  * 4 - Result
 ***
 ## Questions
 
