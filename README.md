@@ -154,3 +154,19 @@
 14. Earn Trust
 15. Strive to be Earth's Best Employer
 16. Success and Scale Bring Broad Responsibility
+
+***
+
+### Meta Behavioral Interview Questions
+* https://igotanoffer.com/en/advice/meta-interview-questions
+* https://4dayweek.io/interview-process/facebook-behavioral
+* https://interviewkickstart.com/blogs/interview-questions/facebook-behavioral-interview-questions
+* https://mentorcruise.com/questions/meta/
+* https://www.hellointerview.com/blog/ace-faang-behavioral-interview
+* https://medium.com/double-pointer/top-seven-behavioral-interview-questions-asked-at-meta-for-software-engineering-interviews-17e5b59679c9
+* https://www.careerflow.ai/blog/meta-behavioral-interview-questions
+* https://careerflowai.medium.com/meta-behavioral-interview-guide-8b703b9bca14
+* https://interviewing.io/blog/how-software-engineering-behavioral-interviews-are-evaluated-meta
+* https://www.pathrise.com/guides/meta-interview-questions/
+* https://www.tryexponent.com/questions?company=facebook&type=behavioral
+* https://leetcode.com/discuss/interview-question/5195125/Meta-or-Behavioral-Interview-or-May-2024/
