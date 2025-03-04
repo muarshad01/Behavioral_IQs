@@ -129,6 +129,10 @@
 * https://interviewkickstart.com/blogs/interview-questions/amazon-leadership-principles-interview-questions
 * https://leetcode.com/discuss/interview-question/437082/amazon-behavioral-questions-or-leadership-principles-or-lp
 * https://interviewing.io/guides/amazon-leadership-principles
+* https://fortifyexperts.com/wp-content/uploads/2021/01/Fortify-Experts-Behavioral-Questions-Based-on-Amazon-Principles.pdf
+* https://gist.github.com/williamyeny/68bb89bb36a88ab7634ad020c6ebeb8c
+* https://passmyinterview.com/amazon-leadership-principles-interview/
+* https://github.com/tombetthauser/amazon-behavioral-interview
 
 ### Amazon's 16 Leadership Principles:
 1. Customer Obsession
