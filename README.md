@@ -71,6 +71,7 @@
 ***
 
 ## Amazon Leadership Principle Questions
+* https://github.com/ashishps1/awesome-behavioral-interviews
 * https://www.interviewgenie.com/blog/how-to-interview-at-amazon-with-leadership-principles
 * https://igotanoffer.com/en/advice/amazon-leadership-principles
 * https://www.tryexponent.com/blog/how-to-nail-amazons-behavioral-interview-questions
