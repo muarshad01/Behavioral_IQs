@@ -133,7 +133,8 @@
 * https://gist.github.com/williamyeny/68bb89bb36a88ab7634ad020c6ebeb8c
 * https://passmyinterview.com/amazon-leadership-principles-interview/
 * https://github.com/tombetthauser/amazon-behavioral-interview
-
+* https://github.com/yashchoubey/interview
+* 
 ### Amazon's 16 Leadership Principles:
 1. Customer Obsession
 2. Ownership
