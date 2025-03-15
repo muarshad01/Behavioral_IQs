@@ -120,3 +120,18 @@
 * https://www.pathrise.com/guides/meta-interview-questions/
 * https://www.tryexponent.com/questions?company=facebook&type=behavioral
 * https://leetcode.com/discuss/interview-question/5195125/Meta-or-Behavioral-Interview-or-May-2024/
+
+  ***
+  
+## Companies
+* Meta
+* LinkedIn
+* Amazon
+* Apple
+* Capitol One
+* Abobe Research
+* Ibab Ilyas - StartUp
+* Byte Dance (Le Xu - UIUC)
+* Data Bricks
+
+*** 
