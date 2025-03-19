@@ -133,5 +133,5 @@
 * Ibab Ilyas - StartUp
 * Byte Dance (Le Xu - UIUC)
 * Data Bricks
-
+* Corvic AI
 *** 
