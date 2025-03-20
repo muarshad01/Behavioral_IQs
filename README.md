@@ -125,12 +125,14 @@
   
 ## Companies
 * Meta
+* Capitol One
+*** 
 * LinkedIn
 * Amazon
 * Apple
-* Capitol One
 * Abobe Research
-* Ibab Ilyas - StartUp
+* CISCO Research
+* Ihab Ilyas - StartUp
 * Byte Dance (Le Xu - UIUC)
 * Data Bricks
 * Corvic AI
