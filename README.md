@@ -110,6 +110,7 @@
 ***
 
 ### Meta Behavioral Interview Questions
+* [The 30 most common Software Engineer behavioral interview questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/)
 * https://igotanoffer.com/en/advice/meta-interview-questions
 * https://4dayweek.io/interview-process/facebook-behavioral
 * https://interviewkickstart.com/blogs/interview-questions/facebook-behavioral-interview-questions
