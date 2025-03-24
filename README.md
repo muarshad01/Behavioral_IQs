@@ -136,4 +136,5 @@
 * Byte Dance (Le Xu - UIUC) Neha Mehrotra Recruiter
 * Data Bricks
 * Corvic AI
+* Celonis (Amr Ebaid)
 *** 
