@@ -1,3 +1,5 @@
+* [Recommended materials for cracking your next technical interview](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7107026458673328128-7kOv/?utm_source=share&utm_medium=member_ios)
+
 ## Behavioral IQs
 * STAR Approach: 
   * 1 - Situation
