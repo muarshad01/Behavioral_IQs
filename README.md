@@ -133,7 +133,7 @@
 * Abobe Research
 * CISCO Research
 * Ihab Ilyas - StartUp
-* Byte Dance (Le Xu - UIUC)
+* Byte Dance (Le Xu - UIUC) Neha Mehrotra Recruiter
 * Data Bricks
 * Corvic AI
 *** 
