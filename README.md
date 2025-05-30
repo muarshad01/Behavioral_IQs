@@ -141,4 +141,5 @@
 * Corvic AI
 * Celonis (Amr Ebaid)
 * AWS - Mahmoud Abuelela - ECE2; DC
+* Wherobots - SF
 *** 
